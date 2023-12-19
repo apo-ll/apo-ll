@@ -3,4 +3,4 @@ My name is Evans, I am a Kenyan front-end developer and wannabe designer living 
 
 I would take whatever you see in these public GitHub repos with a grain of salt.. They are mostly side projects and built with questionable practices and commit hygiene! 😅
 
-Hit me up on twitter if you want to chat! ❤️
+[https://twitter.com/appo_llonic](Hit me up on twitter) if you want to chat! ❤️
